@@ -1,5 +1,5 @@
 # reverseOnlyAlpha
-Given a string, revers only the alphabetic characters in the string
+Given a string, reverse only the alphabetic characters in the string
 
 # Challenge 
 Write a function that takes a string with any characters and returns the string with only the alphabetical characters reversed
